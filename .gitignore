@@ -8,7 +8,6 @@ __pycache__/
 .pytest_cache/
 
 # Secrets
-.env
 
 # Project
 temp/
@@ -21,3 +20,9 @@ research/
 skills-lock.json
 
 uv.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
